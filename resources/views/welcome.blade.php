@@ -254,24 +254,4 @@
 </section>
 <!-- ***** Blog End ***** -->
 
-<!-- ***** Footer Start ***** -->
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12">
-                <ul class="social">
-                    <li><a href="https://www.linkedin.com/in/muhammad-syamsul-marif-48b688170"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="https://www.instagram.com/x4msulm4rif/"><i class="fa fa-instagram"></i></a></li>
-                    <li><a href="https://github.com/syamsulapp"><i class="fa fa-github"></i></a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <p class="copyright">Copyright &copy; {{ now()->year }} Samsul Marif </p>
-            </div>
-        </div>
-    </div>
-</footer>
-
 @endsection
